@@ -1,5 +1,5 @@
 # vue-admin-layout
-这是一个基于Vue 3.x / cli 4.x的后台管理纯布局项目，自适应窗口，Asider/Header固定，不受内容高度影响。项目纯净，可在此基础上深入开发。
+这是一个基于Vue 3.x的后台管理纯布局项目，自适应窗口，Asider/Header固定，不受内容高度影响。项目纯净，可在此基础上深入开发。
 
 # 1.克隆项目
 git clone https://github.com/Martin-Mas/vue-admin-layout.git
