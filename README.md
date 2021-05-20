@@ -14,6 +14,7 @@ npm install
 npm run serve
 
 启动好后可选择Local或Network运行，按住Ctrl+鼠标左键点击即可，不出意外此时浏览器已经启动并加载好页面了。不对，应该没有意外！
+
 ![image](https://user-images.githubusercontent.com/74805959/119001335-7737c300-b9be-11eb-8f15-6d1586d5153e.png)
 
 # 效果如图
